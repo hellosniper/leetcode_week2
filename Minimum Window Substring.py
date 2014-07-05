@@ -9,7 +9,7 @@
 # Sulotion:  
 
 # Author: DongDing 
-# Date: 2014/07/03
+# Date: 2014/07/05
 # Time complexity:  O(n)
 # space complexity:  O(256)  
 # Tag: # Greedy Algorithm
